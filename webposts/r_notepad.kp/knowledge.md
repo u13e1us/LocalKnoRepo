@@ -4,7 +4,7 @@ authors:
 created_at: 2018-07-03 00:00:00
 path: webposts/r_notepad
 tags:
-- private
+- knowledge
 thumbnail: ''
 title: r_notepad
 tldr: sadsad
