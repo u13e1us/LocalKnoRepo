@@ -4,7 +4,7 @@ authors:
 created_at: 2018-07-03 00:00:00
 path: webposts/test
 tags:
-- private
+- knowledge
 thumbnail: ''
 title: fdggfhfh
 tldr: sdfdf
