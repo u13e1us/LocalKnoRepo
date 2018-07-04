@@ -1,6 +1,13 @@
 ---
 title: "R Notebook"
 output: html_notebook
+created_at: 2018-07-03 00:00:00
+authors:
+- nam
+tldr: cars
+tags:
+- knowledge
+updated_at: 2018-07-03 09:45:52.571156
 ---
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
